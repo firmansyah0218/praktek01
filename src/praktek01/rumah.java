@@ -17,10 +17,10 @@ public class rumah {
     String atap;
     
     void  cetakinfo(){
-            System.out.println("Pintu :"+pintu);
-            System.out.println("Jendela :"+jendela);
-            System.out.println("Fentilasi :"+fentilasi);
-            System.out.println("Tangga :"+tangga);
-            System.out.println("Atap :"+atap);
+            System.out.println("Pintu       :"+pintu);
+            System.out.println("Jendela     :"+jendela);
+            System.out.println("Fentilasi   :"+fentilasi);
+            System.out.println("Tangga      :"+tangga);
+            System.out.println("Atap        :"+atap);
     }
 }
