@@ -32,7 +32,7 @@ public class rumahaksi {
         pintu.harga="70.000";
         pintu.merk="sakura roof";
         
-        pintu.cetakinfo();
+     pintu.cetakinfo();
         jendela.cetakinfo();
         atap.cetakinfo();
     }
