@@ -10,5 +10,9 @@ package praktek01;
  * @author Firman
  */
 public class pintu {
+
+    pintu() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
